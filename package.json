@@ -1,0 +1,27 @@
+{
+  "name": "next-playground",
+  "version": "1.0.0",
+  "description": "a playground app to test next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sshetty2/nextjs-playground.git"
+  },
+  "author": "Sachit Shetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sshetty2/nextjs-playground/issues"
+  },
+  "homepage": "https://github.com/Sshetty2/nextjs-playground#readme",
+  "dependencies": {
+    "next": "^8.0.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
+}
